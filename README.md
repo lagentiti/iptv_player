@@ -13,6 +13,8 @@ cd iptv_player
 npm install
 # Run the app
 npm start
+#compile programme for windows
+npm run dist
 ```
 
 ## License
