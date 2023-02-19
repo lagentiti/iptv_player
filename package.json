@@ -1,0 +1,18 @@
+{
+  "name": "ipv_player",
+  "version": "1.0.0",
+  "description": "IPTV PLAYER",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/lagentiti/iptv_player",
+  "author": "lagentiti",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^23.1.0"
+  },
+  "dependencies": {
+    "custom-electron-titlebar": "^4.1.3"
+  }
+}
